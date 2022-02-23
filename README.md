@@ -13,18 +13,18 @@ clavisynth - 14 samples\
 fmpiano - 16 samples\
 pianosynth - 16 samples
 
-## harps and keyboard instruments
+### harps and keyboard instruments
 concertharp - 4 samples\
 folkharp - 10 samples\
 grandpiano - 42 samples\
 pianoext - 6 samples\
 pipeorgan - 18 samples
 
-## melodic percussion
+### melodic percussion
 vibraphone - 9 samples\
 xylophone - 24 samples
 
-## woodwinds
+### woodwinds
 ocarina - 5 samples\
 saxophone - 19 samples\
 didgeridoo - 12 samples
