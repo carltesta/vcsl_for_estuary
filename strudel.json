@@ -1,5 +1,13 @@
 {
  	"_base": "https://carltesta.github.io/vcsl_for_estuary/",
+ 	"altorecorder": [
+ 		"altorecorder/AltRecorder_Stac_C4_rr1_Main.wav",
+ 		"altorecorder/AltRecorder_Stac_C5_rr1_Main.wav",
+ 		"altorecorder/AltRecorder_SusVib_C4_rr1_Main.wav",
+ 		"altorecorder/AltRecorder_SusVib_C5_rr1_Main.wav",
+ 		"altorecorder/AltRecorder_Sus_C4_rr1_Main.wav",
+ 		"altorecorder/AltRecorder_Sus_C5_rr1_Main.wav"
+ 	],
  	"clap": [
  		"clap/01_SoloClap_vl2.wav",
  		"clap/02_SoloClap_vl3.wav",
@@ -249,6 +257,15 @@
  		"saxophone/BrettTenor_Vib_Main_C3_var1.wav",
  		"saxophone/BrettTenor_Vib_Main_C4_var2.wav",
  		"saxophone/BrettTenor_Vib_Main_C5_var2.wav"
+ 	],
+ 	"tenorrecorder": [
+ 		"tenorrecorder/TenRecorder_Stac_C3_rr1_Main.wav",
+ 		"tenorrecorder/TenRecorder_Stac_C4_rr1_Main.wav",
+ 		"tenorrecorder/TenRecorder_SusVib_C3_rr1_Main.wav",
+ 		"tenorrecorder/TenRecorder_SusVib_C4_rr1_Main.wav",
+ 		"tenorrecorder/TenRecorder_Sus_C3_rr1_Main.wav",
+ 		"tenorrecorder/TenRecorder_Sus_C4_rr1_Main.wav",
+ 		"tenorrecorder/TenRecorder_Sus_C5_rr1_Main.wav"
  	],
  	"vibraphone": [
  		"vibraphone/00_Vibes_soft_C3_v1_rr2_Main.wav",
